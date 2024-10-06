@@ -1,0 +1,50 @@
+<h1>Grateful Dead Tribute Shows: A Two-Night Spectacular</h1>
+
+<h2>Night One: Recreating History</h2>
+<p>A set list repeat of a famous Grateful Dead show from 50 years ago, performed in the same venue.</p>
+
+<h3>Set List with YouTube Videos</h3>
+
+<h4>Set 1:</h4>
+<ul>
+    <li>Around And Around <!-- YouTube embed placeholder -->
+        <div class="video-container">
+            <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </li>
+    <li>Mississippi Half-Step Uptown Toodleloo</li>
+    <li>Beat It On Down The Line</li>
+    <li>Peggy-O</li>
+    <li>Black Throated Wind</li>
+    <li>China Cat Sunflower &gt;</li>
+    <li>I Know You Rider</li>
+    <li>Loser</li>
+    <li>Weather Report Suite Prelude &gt;</li>
+    <li>Weather Report Suite Part 1 &gt;</li>
+    <li>Let It Grow &gt;</li>
+    <li>Stella Blue</li>
+</ul>
+
+<h4>Set 2:</h4>
+<ul>
+    <li>Me And My Uncle</li>
+    <li>Dire Wolf</li>
+    <li>Not Fade Away</li>
+    <li>Ramble On Rose</li>
+    <li>Big River</li>
+    <li>Dark Star &gt;</li>
+    <li>Morning Dew</li>
+    <li>Sugar Magnolia</li>
+</ul>
+
+<h4>Encore:</h4>
+<ul>
+    <li>U.S. Blues</li>
+    <li>Piece Of My Heart</li>
+</ul>
+
+<h2>Night Two: A Modern Tribute</h2>
+
+<h3>Set List with YouTube Videos</h3>
+
+<h4>Set 1:</h4>
