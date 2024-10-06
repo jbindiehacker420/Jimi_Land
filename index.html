@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Minimal Blog</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css">
+    <style>
+        :root {
+            --primary-color: #333;
+            --secondary-color: #666;
+            --accent-color: #0066cc;
+            --background-color: #ffffff;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--primary-color);
+            background-color: var(--background-color);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+
+        header {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        nav a {
+            margin-right: 1rem;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        article {
+            margin-bottom: 2rem;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 4px;
+        }
+
+        /* Dark mode toggle styles */
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            padding: 0.5rem;
+            background: none;
+            border: 1px solid var(--secondary-color);
+            border-radius: 4px;
+            color: var(--primary-color);
+            cursor: pointer;
+        }
+
+        /* Tag styles */
+        .tags {
+            margin: 1rem 0;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            margin-right: 0.5rem;
+            background-color: #f0f0f0;
+            border-radius: 3px;
+            font-size: 0.9rem;
+            color: var(--secondary-color);
+        }
+
+        /* Table styles */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+
+        th, td {
+            padding: 0.5rem;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f5f5f5;
+        }
+
+        /* Code block styles */
+        pre {
+            background-color: #f5f5f5;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            body {
+                padding: 0.5rem;
+            }
+            
+            nav {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            nav a {
+                margin-bottom: 0.5rem;
+            }
+        }
+
+        /* Dark mode styles */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #e0e0e0;
+                --secondary-color: #a0a0a0;
+                --accent-color: #66b3ff;
+                --background-color: #1a1a1a;
+            }
+
+            th {
+                background-color: #2d2d2d;
+            }
+
+            pre {
+                background-color: #2d2d2d;
+            }
+
+            .tag {
+                background-color: #2d2d2d;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
+    
+    <header>
+        <h1>My Blog</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#archive">Archive</a>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Sample Blog Post</h2>
+            <div class="tags">
+                <span class="tag">web-dev</span>
+                <span class="tag">tutorial</span>
+            </div>
+            
+            <p>This is a sample blog post demonstrating various types of content.</p>
+            
+            <h3>Text Content</h3>
+            <p>Your regular text content goes here. You can use paragraphs, lists, and other HTML elements.</p>
+            
+            <h3>Table Example</h3>
+            <table>
+                <tr>
+                    <th>Header 1</th>
+                    <th>Header 2</th>
+                </tr>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                </tr>
+            </table>
+            
+            <h3>Code Example</h3>
+            <pre><code class="language-javascript">
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+greet('World');
+            </code></pre>
+            
+            <h3>Image Example</h3>
+            <figure>
+                <img src="/api/placeholder/800/400" alt="Sample image">
+                <figcaption>A sample image with caption</figcaption>
+            </figure>
+            
+            <h3>Video Example</h3>
+            <div class="video-container">
+                <iframe src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </article>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('dark-mode');
+        }
+
+        // Optional: Add estimated reading time
+        document.addEventListener('DOMContentLoaded', function() {
+            const articles = document.querySelectorAll('article');
+            articles.forEach(article => {
+                const text = article.textContent;
+                const wordCount = text.split(/\s+/).length;
+                const readingTime = Math.ceil(wordCount / 200); // Assuming 200 words per minute
+                
+                const timeElement = document.createElement('div');
+                timeElement.classList.add('reading-time');
+                timeElement.textContent = `${readingTime} min read`;
+                
+                article.insertBefore(timeElement, article.firstChild);
+            });
+        });
+    </script>
+</body>
+</html>
