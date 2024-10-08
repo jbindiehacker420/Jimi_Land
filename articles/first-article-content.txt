@@ -1,7 +1,7 @@
 <h1>Grateful Dead Tribute Shows: A Two-Night Spectacular</h1>
 
-<h2>Night One: Recreating History</h2>
-<p>A set list repeat of a famous Grateful Dead show from 50 years ago, performed in the same venue.</p>
+<h2>Night One</h2>
+<p>A repeat of the famous Grateful Dead show from 50 years ago, performeing the same set list in the same venue.</p>
 
 <h4>Set 1:</h4>
 <ul>
