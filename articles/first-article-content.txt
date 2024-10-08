@@ -3,48 +3,71 @@
 <h2>Night One: Recreating History</h2>
 <p>A set list repeat of a famous Grateful Dead show from 50 years ago, performed in the same venue.</p>
 
-<h3>Set List with YouTube Videos</h3>
+<h3>Set List with YouTube Links</h3>
 
 <h4>Set 1:</h4>
 <ul>
-    <li>Around And Around <!-- YouTube embed placeholder -->
-        <div class="video-container">
-            <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </li>
-    <li>Mississippi Half-Step Uptown Toodleloo</li>
-    <li>Beat It On Down The Line</li>
-    <li>Peggy-O</li>
-    <li>Black Throated Wind</li>
-    <li>China Cat Sunflower &gt;</li>
-    <li>I Know You Rider</li>
-    <li>Loser</li>
-    <li>Weather Report Suite Prelude &gt;</li>
-    <li>Weather Report Suite Part 1 &gt;</li>
-    <li>Let It Grow &gt;</li>
-    <li>Stella Blue</li>
+    <li>Around And Around (<a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Mississippi Half-Step Uptown Toodleloo (<a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Beat It On Down The Line (<a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Peggy-O (<a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Black Throated Wind (<a href="https://www.youtube.com/watch?v=VIDEO_ID_5" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>China Cat Sunflower (<a href="https://www.youtube.com/watch?v=VIDEO_ID_6" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+    <li>I Know You Rider (<a href="https://www.youtube.com/watch?v=VIDEO_ID_7" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Loser (<a href="https://www.youtube.com/watch?v=VIDEO_ID_8" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Weather Report Suite Prelude (<a href="https://www.youtube.com/watch?v=VIDEO_ID_9" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+    <li>Weather Report Suite Part 1 (<a href="https://www.youtube.com/watch?v=VIDEO_ID_10" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+    <li>Let It Grow (<a href="https://www.youtube.com/watch?v=VIDEO_ID_11" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+    <li>Stella Blue (<a href="https://www.youtube.com/watch?v=VIDEO_ID_12" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
 </ul>
 
 <h4>Set 2:</h4>
 <ul>
-    <li>Me And My Uncle</li>
-    <li>Dire Wolf</li>
-    <li>Not Fade Away</li>
-    <li>Ramble On Rose</li>
-    <li>Big River</li>
-    <li>Dark Star &gt;</li>
-    <li>Morning Dew</li>
-    <li>Sugar Magnolia</li>
+    <li>Me And My Uncle (<a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Dire Wolf (<a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank" rel="noopener noreferrer">YouTube</a>)</li> 
+    <li>Not Fade Away (<a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Ramble On Rose (<a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Big River (<a href="https://www.youtube.com/watch?v=VIDEO_ID_5" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Dark Star (<a href="https://www.youtube.com/watch?v=VIDEO_ID_6" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+    <li>Morning Dew (<a href="https://www.youtube.com/watch?v=VIDEO_ID_7" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Sugar Magnolia (<a href="https://www.youtube.com/watch?v=VIDEO_ID_8" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
 </ul>
 
 <h4>Encore:</h4>
 <ul>
-    <li>U.S. Blues</li>
-    <li>Piece Of My Heart</li>
+    <li>U.S. Blues (<a href="https://www.youtube.com/watch?v=VIDEO_ID_9" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+    <li>Piece Of My Heart (<a href="https://www.youtube.com/watch?v=VIDEO_ID_10" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
 </ul>
 
 <h2>Night Two: A Modern Tribute</h2>
+<p>A contemporary interpretation of the Grateful Dead's vast catalog, blending classic favorites with unexpected gems.</p>
 
-<h3>Set List with YouTube Videos</h3>
+<Night Two
+Set list with youtube videos
 
-<h4>Set 1:</h4>
+Set 1:
+<li> Let The Good Times Roll (<a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>         
+<li> Feel Like A Stranger (<a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Cumberland Blues (<a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Just Like Tom Thumb's Blues (<a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>      
+<li> C.C. Rider (<a href="https://www.youtube.com/watch?v=VIDEO_ID_5" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Mission In The Rain (<a href="https://www.youtube.com/watch?v=VIDEO_ID_6" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Hell In A Bucket (<a href="https://www.youtube.com/watch?v=VIDEO_ID_7" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> You Ain't Woman Enough (To Take My Man) (<a href="https://www.youtube.com/watch?v=VIDEO_ID_8" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Bird Song (<a href="https://www.youtube.com/watch?v=VIDEO_ID_9" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;</li>
+<li> Jack Straw (<a href="https://www.youtube.com/watch?v=VIDEO_ID_10" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+
+Set 2:
+<li>Uncle John's Band (<a href="https://www.youtube.com/watch?v=VIDEO_ID_11" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;    
+<li>Estimated Prophet (<a href="https://www.youtube.com/watch?v=VIDEO_ID_12" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+<li>Eyes Of The World (<a href="https://www.youtube.com/watch?v=VIDEO_ID_13" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+<li>Unbroken Chain (<a href="https://www.youtube.com/watch?v=VIDEO_ID_14" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;               
+<li>drums (<a href="https://www.youtube.com/watch?v=VIDEO_ID_15" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt; space (<a href="https://www.youtube.com/watch?v=VIDEO_ID_16" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+<li>Imagine (instrumental) (<a href="https://www.youtube.com/watch?v=VIDEO_ID_17" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+<li>China Doll (<a href="https://www.youtube.com/watch?v=VIDEO_ID_18" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;    
+<li>Throwing Stones (<a href="https://www.youtube.com/watch?v=VIDEO_ID_19" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+<li>Touch Of Grey (<a href="https://www.youtube.com/watch?v=VIDEO_ID_20" target="_blank" rel="noopener noreferrer">YouTube</a>) &gt;
+
+Encore:
+<li> Woodstock (<a href="https://www.youtube.com/watch?v=VIDEO_ID_21" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
+<li> Brokedown Palace (<a href="https://www.youtube.com/watch?v=VIDEO_ID_22" target="_blank" rel="noopener noreferrer">YouTube</a>)</li>
